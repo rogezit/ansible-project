@@ -1,4 +1,4 @@
-This is a project for al the Alt3 servers given in the course.
+This is a project for al the Alta3 servers given in the course.
 
 It downloads a hello world project on public github.
 
