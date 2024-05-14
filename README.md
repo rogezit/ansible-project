@@ -7,10 +7,10 @@ First it goes to the servers to install the proper dependencies.
 - python3-pip
 - git
 
-In this case the was an error with one server so it check the OS and check if is a Debian or a RedHat systems.
+In this case there was an error with one server so it check the OS and checked if is a Debian or a RedHat systems.
 
 and finally it clones the repository.
 
 Notes for Professor Hutch:
 Hope you still remember me. When we where on class you told me to continue the project I was working on class.
-So I just did some changes but is basically this and is working fine. If you think there is something missing please tell me.
+So I just add some things more but is basically this and is working fine. If you think there is something missing please tell me.
